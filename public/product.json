@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Cam",
+      "image": "/cam.jpg",
+      "price": "12.000 VND",
+      "quantity": 12,
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Táo",
+      "image": "/tao.jpg",
+      "price": "15.000 VND",
+      "quantity": 20,
+      "category_id": 1
+    }
+  ]
+  
